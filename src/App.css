@@ -1,0 +1,25 @@
+button {
+  font-size: 48px; 
+}
+
+.App{
+  text-align: center;
+}
+
+.App-content{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  padding: 10px;
+  color: white;
+}
+
+a {
+  display: flex;
+  align-content: center;
+  color: aqua;
+  font-size: 24px;
+}
